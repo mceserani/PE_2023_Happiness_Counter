@@ -14,34 +14,34 @@ Since A and B and are sets, they have no repeated elements. However, the array i
 
 - Input Format
 
-The first line contains integers **n** and **m** separated by a space.
+  - The first line contains integers **n** and **m** separated by a space.
 
-The second line contains **n integers**, the elements of the list.
+  - The second line contains **n integers**, the elements of the list.
 
-The third and fourth lines contain **m integers**, **A** and **B**, respectively.
+  - The third and fourth lines contain **m integers**, **A** and **B**, respectively.
 
 - Output Format
 
-Output a **single integer**, your total happiness.
+  - Output a **single integer**, your total happiness.
 
 - Sample Input
 
-3 2
+  3 2
 
-1 5 3
+  1 5 3
 
-3 1
+  3 1
 
-5 7
+  5 7
 
 - Sample Output
 
-1
+  1
 
 - Explanation of the sample output
 
-You gain unit of happiness for elements 1 and 3 in set A. You lose unit for 5 in set B. 
+  - You gain unit of happiness for elements 1 and 3 in set A. You lose unit for 5 in set B. 
 
-The element 7 in set B does not exist in the list so it is not included in the calculation.
+  - The element 7 in set B does not exist in the list so it is not included in the calculation.
 
-Hence, the total happiness is 1.
+  - Hence, the total happiness is 1.
