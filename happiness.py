@@ -8,3 +8,7 @@ n, m = map(int,input().split())
 # 2. Calcola la felicità
 #    Usa un ciclo for
 # 3. Stampa la felicità
+
+
+# test_case expected output: 15
+# test_case_long expected output: -100
